@@ -2,5 +2,5 @@
 
 #Usage  
 ```
-python moss-cli.py file1.cpp file2.cpp
+python moss-cli.py -f file1.cpp file2.cpp
 ```

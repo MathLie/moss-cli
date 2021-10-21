@@ -1,2 +1,6 @@
 # moss-cli
-Simple cli for moss
+
+#Usage  
+```
+python moss-cli.py file1.cpp file2.cpp
+```
